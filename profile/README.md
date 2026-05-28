@@ -2,9 +2,11 @@
 
 MoDeep 11th Organization 입니다.
 
-### Ongoing Project
+### Our Project
 
 **hear**
+
+**MoDev**
 
 ### Member
 
