@@ -1,12 +1,12 @@
 # MoDeep 
 
-MoDeep 11th Organization 입니다.
+> DSM AI 서비스 개발 및 연구 동아리 MoDeep의 11기입니다.
 
 ### Our Project
 
-**hear**
+**hear**: 따뜻한 감성의 AI 일기 작성 서비스
 
-**MoDev**
+**MoDev**: 프로젝트 부트스트래핑 플랫폼
 
 ### Member
 
