@@ -12,7 +12,7 @@
 
 | Name | Github | Role |
 | --- | --- | --- |
-| 박하원 | [@hawon223](https://github.com/hawon223) | PM, AI Developer |
+| 박하원 | [@hawon223](https://github.com/hawon223) | AI Developer |
 | 신유원 | [@kimwonshin](https://github.com/kimwonshin) | AI Developer |
 | 지성환 | [@jiseonghwan](https://github.com/jiseonghwan) | AI Developer |
 | 이태연 | [@h2ymb6](https://github.com/h2ymb6) | Frontend Developer |
